@@ -2,6 +2,8 @@
 
 Easy WordPress development with Docker and Docker Compose.
 
+A detailed explanation of the whole process can be found in our [wordpress-docker-tutorial (in German)](https://www.quandes.com/ratgeber/wordpress-docker/).
+
 With this project you can quickly run the following:
 
 - [WordPress and WP CLI](https://hub.docker.com/_/wordpress/)
